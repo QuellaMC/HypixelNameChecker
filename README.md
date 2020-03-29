@@ -1,0 +1,2 @@
+# HypixelNameChecker
+检测用户名是否在Hypixel内登陆
